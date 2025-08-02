@@ -1,5 +1,4 @@
 Terms of Service
-Last updated: July 29, 2024
 
 Agreement to Terms
 By using our services, you agree to be bound by these Terms. If you don’t agree to be bound by these Terms, do not use the Services.
