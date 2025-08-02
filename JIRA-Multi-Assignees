@@ -1,0 +1,34 @@
+Multi-Assignees Pro for Jira
+Official documentation for our Jira add-in.
+
+Welcome to the official documentation for Multi-Assignees Pro for Jira, the ultimate solution for assigning multiple users to Jira issues, enhancing collaboration, and unlocking powerful BI insights. This page provides everything you need to get started, use the app effectively, troubleshoot issues, and stay updated with the latest releases.
+
+Installation Guide
+Step-by-Step Instructions
+Verify Access: Ensure your Jira administrator has installed "Multi-Assignees Pro" via the Atlassian Marketplace or Forge CLI. You need a Jira Cloud account with appropriate project permissions to use the field.
+Access the Field: Open any issue in a project where the app is configured. Look for the "Assignees" custom field, added by your admin under Settings > Issues > Custom fields.
+Getting Help: If the field isn’t visible, please contact your Jira administrator.
+
+Usage Instructions
+Assigning Multiple Users
+Open an issue and locate the "Assignees" field. Start typing a user’s name, select from the auto-suggested list, and press Enter to add. Repeat to include additional team members. Save the issue to confirm assignments.
+
+Viewing Assignees on Boards and Cards
+Navigate to your project’s board view. Open a card to see all assignees listed as text (e.g., "John Doe, Jane Smith"). Check backlogs or work lists for the same clear display.
+
+Aggregating Data for BI
+Export issue data including the "Assignees" field via Jira’s CSV export option. Import into your BI tool (e.g., Tableau, Power BI) and analyze by grouping or filtering assignees.
+
+FAQ
+Common Questions
+Is this available for Jira Data Center?
+Currently supported on Jira Cloud. Data Center compatibility is planned for a future release—check the Release Notes for updates.
+
+How do I remove an assignee?
+Edit the issue, click the "Assignees" field, and click the "x" next to the user’s name to remove them.
+
+What if BI aggregation isn’t working?
+Ensure you’ve exported the correct field data. For advanced aggregation, please refer to your BI tool's documentation.
+
+Are there limits to assignees?
+There is no hard limit, but for optimal performance, it is recommended to keep teams manageable.
