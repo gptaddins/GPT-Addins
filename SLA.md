@@ -1,4 +1,5 @@
 Service Level Agreement (SLA) - GPTAddins
+
 Support Overview
 GPTAddins is committed to providing reliable support for the GPT-Multiple Assignees app on the Atlassian Marketplace. This SLA outlines the support availability and response commitments for our customers.
 Service Availability
