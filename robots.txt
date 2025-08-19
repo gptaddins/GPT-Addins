@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gptaddins.netlify.app/sitemap.xml
